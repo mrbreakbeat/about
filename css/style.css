@@ -156,7 +156,7 @@
 		background-position:center bottom, left top;
 		background-repeat:repeat-x;
 		overflow:hidden;
-		background-color:#fdd42f;		
+		background-color:#42c09b;		
 	}
 	/* About */
 	.about {
@@ -190,7 +190,7 @@
 	.about p {
 		font-size:14px;
 		margin-top:15px;
-		color:#bc9010;
+		color:#137f5f;
 		line-height:20px;
 	}
 	/* Personal info */
@@ -209,8 +209,8 @@
 		overflow: hidden;
 	}
 	.personal-info li label {
-		color:#a87f09;
-		background-color:#f4c024;
+		color:#ffffff;
+		background-color:#28ad86;
 		float:left;
 		padding:4px 7px;
 		border-radius: 3px;
@@ -220,7 +220,7 @@
 	.personal-info li span {
 		float:right;
 		width:170px;
-		color:#a87f09;
+		color:#ffffff;
 	}
 	/*-------------------------------------------------------*/
 		/* Menu */
@@ -255,7 +255,7 @@
 		background:url('../images/tab-hover.png') no-repeat;
 	}
 	.tabs li.active a {
-		color:#fdc62a;
+		color:#43c39e;
 	}
 	.tabs li .tab-profile {
 		background-image:url(../images/profile-icon.png);
@@ -317,7 +317,7 @@
 	}
 	.timeline li .timelineUnit .timelineDate {
 		line-height:17px;
-		color: #f4c024;
+		color: #28ad86;
 		font-size:14px;
 		margin-left:10px;
 		font-weight: normal;
@@ -420,10 +420,10 @@
 		-webkit-border-radius: 3px
 	}
 	#portfolio-filter li a:hover {
-		background-color: #fdc62a;
+		background-color: #43c39e;
 	}
 	#portfolio-filter li a.current {
-		background-color: #fdc62a;
+		background-color: #43c39e;
 	}
 	/* Images list */
 	#portfolio-list {
@@ -440,7 +440,7 @@
 		width:180px;
 	}
 	#portfolio-list li:hover {
-		border-bottom:1px solid #fdc62a;
+		border-bottom:1px solid #43c39e;
 		height:185px;
 	}
 	#portfolio-list img {
@@ -449,7 +449,7 @@
 		width:180px;
 	}
 	#portfolio-list li:hover .title {
-		color:#fdc62a;
+		color:#43c39e;
 	}
 	#portfolio-list li .title {
 		font-size:14px;
@@ -554,7 +554,7 @@
 		font-size:13px;
 	}
 	#contactform .submit:hover {
-		background-color: #fdc62a;
+		background-color: #43c39e;
 	}
 	#contactform .input, .textarea {
 		padding:6px;
@@ -738,7 +738,7 @@
 		display:block;
 		width:420px;
 		background:none;
-		border-top:1px solid #fdc62a;
+		border-top:1px solid #43c39e;
 	}
 	/*-------------------------------------------------------*/
 		/* Menu */
@@ -844,7 +844,7 @@
 		display:block;
 		width:280px;
 		background:none;
-		border-top:1px solid #fdc62a;
+		border-top:1px solid #43c39e;
 		margin-left:10px;
 		min-height:220px;
 		padding-left:0;
