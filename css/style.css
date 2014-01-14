@@ -313,6 +313,7 @@
 		color: #444;
 		font-size:13px;
 		border-left:1px solid #fadc66;
+		border-left:1px solid #42c09b;
 		padding-left:15px;
 	}
 	.timeline li .timelineUnit .timelineDate {
@@ -513,6 +514,7 @@
 		float:left;
 		margin-left:11px;
 		border-left:1px solid #fadc66;
+		border-left:1px solid #42c09b;
 		padding-left:18px;
 	}
 	.contact-info ul li {
