@@ -132,6 +132,12 @@
 		height:30px;
 		background:#222 url('../images/social_in.png') no-repeat 4px 3px;
 	}
+	.social-github{
+		float:left;
+		width:30px;
+		height:30px;
+		background:#222 url('../images/social-github.png') no-repeat 4px 3px;
+	}
 	.social-facebook:hover {
 		background-color:#3b5998;
 	}
