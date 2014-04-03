@@ -136,7 +136,7 @@
 		float:left;
 		width:30px;
 		height:30px;
-		background:#222 url('../images/social-github.png') no-repeat 4px 3px;
+		background:#222 url('../images/social-github.png') no-repeat 5px 5px;
 	}
 	.social-facebook:hover {
 		background-color:#3b5998;
@@ -152,6 +152,9 @@
 	}
 	.social-mail:hover {
 		background-color:#f6c500;
+	}
+	.social-github:hover {
+		background-color:#22b1e5;
 	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
