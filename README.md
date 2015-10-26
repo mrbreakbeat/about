@@ -19,5 +19,3 @@ Minha trajetória é de um perfil híbrido, com experiência em diversas áreas 
 > - UX Design / Design Web
 > - Social Media Analysis (Facebook para Negócios)
 > - Frontend Developer
-
-#### <i class="icon-file"></i> Create a document
