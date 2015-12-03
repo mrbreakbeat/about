@@ -7,7 +7,7 @@
 ----------------------------------
 
         Table of Contents
-        
+
         #General style
         #Grid
         #Slideshow
@@ -118,14 +118,14 @@
 
 .slideshow {
     position: fixed;
-    background: rgba(255,204,0,1);
-    background: -moz-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,204,0,1)), color-stop(100%, rgba(229,0,118,0.85)));
-    background: -webkit-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
-    background: -o-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
-    background: -ms-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
-    background: linear-gradient(to right, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#e50076', GradientType=1 );
+    background: rgba(19,140,167,1);
+    background: -moz-linear-gradient(left, rgba(19,140,167,1) 0%, rgba(243,223,16,0.85) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(19,140,167,1)), color-stop(100%, rgba(243,223,16,0.85)));
+    background: -webkit-linear-gradient(left, rgba(19,140,167,1) 0%, rgba(243,223,16,0.85) 100%);
+    background: -o-linear-gradient(left, rgba(19,140,167,1) 0%, rgba(243,223,16,0.85) 100%);
+    background: -ms-linear-gradient(left, rgba(19,140,167,1) 0%, rgba(243,223,16,0.85) 100%);
+    background: linear-gradient(to right, rgba(19,140,167,1) 0%, rgba(243,223,16,0.85) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#138ca7', endColorstr='#f3df10', GradientType=1 );
     width: 100%;
     height: 100%;
     top: 0;
